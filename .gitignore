@@ -1,6 +1,7 @@
 venv/
 data/
 *.pt
+!models/best.pt
 __pycache__/
 .env
 *.pyc
